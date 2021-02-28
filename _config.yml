@@ -1,0 +1,12 @@
+include:
+ - blocks/gallery/__item
+ - blocks/page/__comments
+ - blocks/page/__cover
+ - blocks/page/__footer
+ - blocks/page/__gallery
+ - blocks/page/__header
+ - blocks/page/__intro
+ - blocks/page/__lead
+ - blocks/page/__places
+ - blocks/page/__vedeo
+
