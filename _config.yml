@@ -1,14 +1,13 @@
 include:
-[
-example/blocks/gallery/__item,
-example/blocks/page/__comments,
-example/blocks/page/__cover,
-example/blocks/page/__footer,
-example/blocks/page/__gallery,
-example/blocks/page/__header,
-example/blocks/page/__intro,
-example/blocks/page/__lead,
-example/blocks/page/__places,
-example/blocks/page/__vedeo,
+__item,
+__comments,
+__cover,
+__footer,
+__gallery,
+__header,
+__intro,
+__lead,
+__places,
+__vedeo,
 ]
 
