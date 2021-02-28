@@ -1,12 +1,12 @@
 include:
- - exemple/blocks/gallery/__item
- - exempleblocks/page/__comments
- - exemple/blocks/page/__cover
- - exemple/blocks/page/__footer
- - exemple/blocks/page/__gallery
- - exemple/blocks/page/__header
- - exemple/blocks/page/__intro
- - exemple/blocks/page/__lead
- - exemple/blocks/page/__places
- - exemple/blocks/page/__vedeo
+ - example/blocks/gallery/__item
+ - exampleblocks/page/__comments
+ - example/blocks/page/__cover
+ - example/blocks/page/__footer
+ - example/blocks/page/__gallery
+ - example/blocks/page/__header
+ - example/blocks/page/__intro
+ - example/blocks/page/__lead
+ - example/blocks/page/__places
+ - example/blocks/page/__vedeo
 
