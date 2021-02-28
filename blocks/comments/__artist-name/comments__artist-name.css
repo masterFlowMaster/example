@@ -1,0 +1,16 @@
+.comments__artist-name{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0px;
+    padding-top: 12px;
+    order: 2;    
+}
+
+@media screen and (max-width: 1024px){
+    .comments__artist-name {
+        align-self: center;        
+    }
+}

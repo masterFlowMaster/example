@@ -1,0 +1,11 @@
+.page__comments{
+    padding-bottom: 100px;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 375px){
+    .page__comments{
+        padding-bottom: 60px;
+        box-sizing: border-box;
+    }
+}

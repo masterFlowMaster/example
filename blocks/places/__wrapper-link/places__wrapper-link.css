@@ -1,0 +1,10 @@
+.places__wrapper-link{
+    align-self: end;
+    justify-self: start;
+}
+
+@media screen and (max-width: 760px){
+    .places__wrapper-link{
+        display: none;
+    }
+}

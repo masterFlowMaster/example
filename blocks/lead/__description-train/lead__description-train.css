@@ -1,0 +1,16 @@
+.lead__description-train {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding-top: 6px;
+}
+
+@media screen and (max-width: 1048px){
+    .lead__description-train{
+        padding-left: 24px;
+    }
+}

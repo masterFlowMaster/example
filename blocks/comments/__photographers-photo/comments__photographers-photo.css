@@ -1,0 +1,8 @@
+.comments__photographers-photo{
+    border-radius: 50%;
+    width: 97px;
+    height: 97px;
+    justify-self: center;
+    align-self: center;
+    order: 1;
+}

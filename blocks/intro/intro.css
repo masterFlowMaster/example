@@ -1,0 +1,19 @@
+@import url(./__title/intro__title.css);
+@import url(./__subtitle/intro__subtitle.css);
+@import url(./__content/intro__content.css);
+@import url(./__content-information/intro__content-information.css);
+@import url(./__facts/intro__facts.css);
+
+.intro {
+    max-width: 984px;
+    margin: auto;    
+    padding: 0 48px;
+}
+
+@media screen and (max-width: 1010px){
+    .intro{padding: 0 24px;}
+}
+
+@media screen and (max-width: 768px){
+    .intro{padding: 0 16px;}
+}

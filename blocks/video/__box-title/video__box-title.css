@@ -1,0 +1,30 @@
+.video__box-title{
+    z-index: 3;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 39px;
+    width: calc((100% / 2) + 14%);
+    margin: 0px;
+    position: absolute;
+    padding: 0;
+    align-self: flex-start;
+    bottom: 15%;
+    left: 3%;
+}
+
+@media screen and (min-width: 20px) and (max-width: 999px){
+    .video__box-title{
+        font-size: 24px;
+        line-height: 26px;
+    }
+}
+
+@media screen and (min-width: 20px) and (max-width: 360px){
+    .video__box-title{
+        font-size: 24px;
+        line-height: 26px;
+        width:100%;
+    }
+}

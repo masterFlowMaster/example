@@ -1,0 +1,20 @@
+.footer__nav-item{
+    margin-right: 18px;
+    padding: 0;
+}
+
+.footer__nav-item:last-child{
+    margin-right: 0px;
+}
+
+@media screen and (max-width: 767px){
+    .footer__nav-item{
+        padding-bottom: 15px;
+        box-sizing: border-box;
+    }
+
+    .footer__nav-item:last-child{
+        padding-bottom: 0px
+    }
+}
+

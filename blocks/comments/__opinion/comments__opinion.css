@@ -1,0 +1,31 @@
+.comments__opinion{
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+margin: 0px;
+padding-top: 34px;
+order: 3;
+}
+
+@media screen and (max-width: 769px){
+    .comments__opinion {
+        align-self: center;
+        padding: 34px 16px 0;        
+    }
+}
+
+@media screen and (max-width: 768px){
+    .comments__opinion {
+        font-size: 16px;
+        line-height: 27px;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .comments__opinion {
+        line-height: 23px;
+    }
+}
+

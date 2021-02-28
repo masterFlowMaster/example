@@ -1,0 +1,27 @@
+.intro__content-information{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;    
+    margin: 0px 18px 0px 0px;
+    max-width: 685px;
+    padding: 34px 0 12px;
+}
+
+@media screen and (max-width: 768px){
+    .intro__content-information{
+        font-size: 16px;
+        line-height: 24px;
+        margin: 0px;
+        padding: 32px 0;
+    }
+}
+
+@media screen and (max-width: 760px){
+    .intro__content-information{
+        line-height: 27px;        
+    }
+}
+
+

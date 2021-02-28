@@ -1,0 +1,17 @@
+.comments__photographers-box{
+    max-width: 1184px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;    
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width: 768px){
+    .comments__photographers-box {
+        display: grid;
+        grid-template-columns: minmax(288px, 382px);
+        justify-items: center;
+        grid-row-gap: 47px;
+    }
+}

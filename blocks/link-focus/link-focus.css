@@ -1,0 +1,8 @@
+.link-focus{
+    opacity: 1;
+    transition: opacity ease-in-out .3s;
+}
+
+.link-focus:hover{
+    opacity: 0.7;
+}

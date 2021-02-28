@@ -1,0 +1,13 @@
+.video__box-subtitle{
+    z-index: 3;
+    margin: 0px;
+    padding: 0px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 15px;
+    position: absolute;
+    bottom: 5%;
+    left: 3%;
+}

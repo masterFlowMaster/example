@@ -1,0 +1,12 @@
+.places__url{     
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+    opacity: 0.8;
+    margin: 0px 0px 9px;
+}

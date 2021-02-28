@@ -1,0 +1,10 @@
+.places__theme-photo{
+    justify-self: start;
+    width: 100%;
+}
+
+@media screen and (max-width: 767px){
+    .places__theme-photo{
+        padding-bottom: 24px;          
+    }
+}

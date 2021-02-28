@@ -1,0 +1,9 @@
+.video__icon-play{
+    align-self: start;
+    justify-self: start;
+    z-index: 3;
+    position: absolute;
+    top: 7%;
+    left: 4%;
+}
+
