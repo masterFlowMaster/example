@@ -1,12 +1,11 @@
 include:
-__item,
-__comments,
-__cover,
-__footer,
-__gallery,
-__header,
-__intro,
-__lead,
-__places,
-__vedeo.
-
+- /blocks/places/__item
+- /blocks/places/__comments
+- /blocks/places/__cover
+- /blocks/places/__footer
+- /blocks/places/__gallery
+- /blocks/places/__header
+- /blocks/places/__intro
+- /blocks/places/__lead
+- /blocks/places/__places
+- /blocks/places/__vedeo
