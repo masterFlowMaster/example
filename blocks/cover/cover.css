@@ -1,6 +1,6 @@
-@import url(./__image-trains/cover__image-trains.css);
-@import url(./__title/cover__title.css);
-@import url(./__subtitle/cover__subtitle.css);
+@import url(__image-trains/cover__image-trains.css);
+@import url(__title/cover__title.css);
+@import url(__subtitle/cover__subtitle.css);
 
 .cover{
     box-sizing: border-box;

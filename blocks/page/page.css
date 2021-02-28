@@ -1,9 +1,9 @@
-@import url(./__header/page__header.css);
-@import url(./__lead/page__lead.css);
-@import url(./__gallery/page__gallery.css);
-@import url(./__video/page__video.css);
-@import url(./__comments/page__comments.css);
-@import url(./__footer/page__footer.css);
+@import url(__header/page__header.css);
+@import url(__lead/page__lead.css);
+@import url(__gallery/page__gallery.css);
+@import url(__video/page__video.css);
+@import url(__comments/page__comments.css);
+@import url(__footer/page__footer.css);
 
 
 

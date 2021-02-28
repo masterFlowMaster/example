@@ -1,8 +1,8 @@
-@import url(./__title/lead__title.css);
-@import url(./__subtitle/lead__subtitle.css);
-@import url(./__railway/lead__railway.css);
-@import url(./__description-train/lead__description-train.css);
-@import url(./__train-photo/lead__train-photo.css);
+@import url(__title/lead__title.css);
+@import url(__subtitle/lead__subtitle.css);
+@import url(__railway/lead__railway.css);
+@import url(__description-train/lead__description-train.css);
+@import url(__train-photo/lead__train-photo.css);
 
 .lead {
     display: flex;

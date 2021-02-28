@@ -1,4 +1,4 @@
-@import url(./__item/gallery__item.css);
+@import url(__item/gallery__item.css);
 
 .gallery{
     display: grid;

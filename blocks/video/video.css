@@ -1,14 +1,14 @@
-@import url(./__composition/video__composition.css);
-@import url(./__item/video__item.css);
-@import url(./__item/_theme/video__item_theme-kamchatka.css);
-@import url(./__item/_theme/video__item_theme-observatory.css);
-@import url(./__box-title/video__box-title.css);
-@import url(./__box-subtitile/video__box-subtitle.css);
-@import url(./__icon-play/video__icon-play.css);
-@import url(./__timeline/video__timeline.css);
-@import url(./__title/video__title.css);
-@import url(./__subtitle/video__subtitle.css);
-@import url(./__wrapper/video__wrapper.css);
+@import url(__composition/video__composition.css);
+@import url(__item/video__item.css);
+@import url(__item/_theme/video__item_theme-kamchatka.css);
+@import url(__item/_theme/video__item_theme-observatory.css);
+@import url(__box-title/video__box-title.css);
+@import url(__box-subtitile/video__box-subtitle.css);
+@import url(__icon-play/video__icon-play.css);
+@import url(__timeline/video__timeline.css);
+@import url(__title/video__title.css);
+@import url(__subtitle/video__subtitle.css);
+@import url(__wrapper/video__wrapper.css);
 
 .video{
     box-sizing: border-box;

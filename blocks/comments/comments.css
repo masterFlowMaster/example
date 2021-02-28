@@ -1,8 +1,8 @@
-@import url(./__opinion/comments__opinion.css);
-@import url(./__photographers-box/comments__photographers-box.css);
-@import url(./__photographers-photo/comments__photographers-photo.css);
-@import url(./__artist-name/comments__artist-name.css);
-@import url(./__photographers-item/comments__photographers-item.css);
+@import url(__opinion/comments__opinion.css);
+@import url(__photographers-box/comments__photographers-box.css);
+@import url(__photographers-photo/comments__photographers-photo.css);
+@import url(__artist-name/comments__artist-name.css);
+@import url(__photographers-item/comments__photographers-item.css);
 
 .comments{
     display: flex;

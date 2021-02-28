@@ -1,12 +1,12 @@
-@import url(./__place-item/places__place-item.css);
-@import url(./__place-item-title/places__place-item-title.css);
-@import url(./__description/places__description.css);
-@import url(./__description-text/places__description-text.css);
-@import url(./__theme-photo/places__theme-photo.css);
-@import url(./__wrapper-link/places__wrapper-link.css);
-@import url(./__link/places__link.css);
-@import url(./__url/places__url.css);
-@import url(./__place-item-title/_text-wrap/places__place-item-title_text-wrap.css);
+@import url(__place-item/places__place-item.css);
+@import url(__place-item-title/places__place-item-title.css);
+@import url(__description/places__description.css);
+@import url(__description-text/places__description-text.css);
+@import url(__theme-photo/places__theme-photo.css);
+@import url(__wrapper-link/places__wrapper-link.css);
+@import url(__link/places__link.css);
+@import url(__url/places__url.css);
+@import url(__place-item-title/_text-wrap/places__place-item-title_text-wrap.css);
 
 
 
